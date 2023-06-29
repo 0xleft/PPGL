@@ -1,3 +1,8 @@
+# Intro
+
+This is just a library so when I'm working on some projects I don't need to make everything from scratch. I'll be hopefully improving it as I go on.
+
+## Install
 ```
 pip install git+https://github.com/0xleft/PPGL.git
 ```
