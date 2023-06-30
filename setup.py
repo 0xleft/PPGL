@@ -8,5 +8,6 @@ setup(
     author_email='your@email.com',
     url='https://github.com/0xleft/ppgl',
     packages=['ppgl'],
-    long_description=""
+    long_description="",
+    license='MIT',
 )
