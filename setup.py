@@ -8,5 +8,5 @@ setup(
     author_email='your@email.com',
     url='https://github.com/0xleft/ppgl',
     packages=['ppgl'],
-    long_description=open('README.md').read(),
+    long_description=""
 )
