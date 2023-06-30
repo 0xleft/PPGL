@@ -4,7 +4,7 @@ This is just a library so when I'm working on some projects I don't need to make
 
 ## Install
 ```
-pip install git+https://github.com/0xleft/PPGL.git
+pip install ppgl
 ```
 
 It just works :)

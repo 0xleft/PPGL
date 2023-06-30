@@ -8,7 +8,7 @@ class GUI:
         self.width = width
         self.height = height
         self.root = tk.Tk()
-        self.root.title("YATP")
+        self.root.title("PPGL")
         self.root.resizable(True, True)
         self.root.geometry(f"{self.width}x{self.height}")
         self.statistics = {}
